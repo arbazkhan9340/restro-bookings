@@ -50,7 +50,7 @@ export default function Home() {
           <img src="/resmio-logo.png" alt="Resmio.in Logo" className="mx-auto h-16 w-16 rounded-lg mb-4" />
           <h1 className="text-4xl sm:text-5xl font-bold mb-4">The Easiest Way to Manage Restaurant Reservations</h1>
           <p className="text-lg text-muted-foreground mb-8">Resmio.in helps restaurants in India accept, manage, and optimize table bookings online. Secure payments, instant notifications, and a beautiful dashboard—no coding required.</p>
-          <a href="http://localhost:3000/sign-up" className="inline-block px-8 py-3 bg-primary text-white rounded-lg font-semibold shadow hover:bg-primary/90 transition">Get Started</a>
+          <a href="https://restrobookings-16dr7c1ej-arbazkhanjrw1-1208s-projects.vercel.app/sign-up" className="inline-block px-8 py-3 bg-primary text-white rounded-lg font-semibold shadow hover:bg-primary/90 transition">Get Started</a>
         </div>
       </section>
 
